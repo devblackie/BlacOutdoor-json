@@ -1,45 +1,45 @@
 {
-  "event":[
-      {
-          "id":"007",
-          "event_type":"hike",
-          "location":"Mt Longonot",
-          "amount":"1500 ksh",
-          "image":"Assets/media/site-images/longonot.jpeg"
-
-      },
-      {
-          "id":"005",
-          "event_type":"hike",
-          "location":"Ngong Hills",
-          "amount":"800 ksh",
-          "image":"Assets/media/site-images/ngonghills.jpeg"
-
-      },
-      {
-          "id":"006",
-          "event_type":"hike",
-          "location":"Williamson Hill",
-          "amount":"1200 ksh",
-          "image":"Assets/media/site-images/williamson.jpeg"
-
-      },
-      {
-          "id":"011",
-          "event_type":"teambuilding",
-          "location":"Paradise Lost",
-          "amount":"2100 ksh",
-          "image":"Assets/media/site-images/paradiselost.jpeg"
-
-      },
-      {
-          "id":"010",
-          "event_type":"team building",
-          "location":"Kereita field",
-          "amount":"1700 ksh",
-          "image":"Assets/media/site-images/kereita.jpeg"
-
-      }
-
-  ]
-}
+    "event":[
+        {
+            "id":"007",
+            "event_type":"hike",
+            "location":"Mt Longonot",
+            "amount":"1500 ksh",
+            "image":"https://images.unsplash.com/photo-1514313887299-224ccb4dd111?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  
+        },
+        {
+            "id":"005",
+            "event_type":"hike",
+            "location":"Ngong Hills",
+            "amount":"800 ksh",
+            "image":"https://images.unsplash.com/photo-1591872959542-4f9f9cb732e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmdvbmclMjBoaWxsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  
+        },
+        {
+            "id":"006",
+            "event_type":"hike",
+            "location":"Williamson Hill",
+            "amount":"1200 ksh",
+            "image":"https://media.istockphoto.com/photos/sporty-man-on-the-mountain-peak-looking-on-mountain-valley-with-at-picture-id1277015766?b=1&k=20&m=1277015766&s=170667a&w=0&h=3vkjdvbCKE6q1ixhl_u190XOTqZYVvpGSpngOKdEZZ0="
+  
+        },
+        {
+            "id":"011",
+            "event_type":"teambuilding",
+            "location":"Paradise Lost",
+            "amount":"2100 ksh",
+            "image":"https://images.unsplash.com/photo-1491911923017-19f90d8d7f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGVhbSUyMGJ1aWxkaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  
+        },
+        {
+            "id":"010",
+            "event_type":"team building",
+            "location":"Kereita field",
+            "amount":"1700 ksh",
+            "image":"https://media.istockphoto.com/photos/riding-on-a-zip-line-picture-id483563980?b=1&k=20&m=483563980&s=170667a&w=0&h=olLgoWsfW5TpCXPlwnWzXrDwcA509LN8oAbhrPFl4kk="
+  
+        }
+  
+    ]
+  }
